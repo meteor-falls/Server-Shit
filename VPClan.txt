@@ -43,11 +43,11 @@ Indeed, the [VP] clan is back. Back from the dead... and back to kick some ass! 
 [img]http://img.pokemondb.net/sprites/black-white/anim/normal/swampert.gif[/img]
 [size=large][font=Impact][color=#FF0000]The Epic One[/color][/font][/size]
 
-[img]http://i.imgur.com/DIizc0e.gif[/img]
-[size=large][font=Impact][color=#FF0000]Zane[/color][/font][/size]
-
 [img]http://i.imgur.com/urIHFUr.gif[/img]
 [size=large][font=Impact][color=#FF0000]Kumiho[/color][/font][/size]
+
+[img]http://i.imgur.com/DIizc0e.gif[/img]
+[size=large][font=Impact][color=#FF0000]Zane[/color][/font][/size]
 
 [img]http://img.pokemondb.net/sprites/black-white/anim/normal/latios.gif[/img]
 [size=large][font=Impact][color=#FF0000]Latios[/color][/font][/size]
@@ -57,6 +57,9 @@ Indeed, the [VP] clan is back. Back from the dead... and back to kick some ass! 
 
 [img]http://img.pokemondb.net/sprites/black-white/anim/normal/garchomp.gif[/img]
 [size=large][font=Impact][color=#FF0000]Gendrome[/color][/font][/size]
+
+[img]http://img.pokemondb.net/sprites/black-white/anim/normal/plusle.gif[/img]
+[size=large][font=Impact][color=#FF0000]ChucuLP[/color][/font][/size]
 
 [img]http://media.pldh.net/pokemon/gen5/blackwhite_animated_front/172.gif[/img]
 [size=large][font=Impact][color=#FF0000]Pichu[/color][/font][/size]
