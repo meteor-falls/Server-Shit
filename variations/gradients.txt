@@ -3,3 +3,4 @@ MF Classic: qradialgradient(spread:pad, cx:0.5, cy:0.5, radius:1.303, fx:0.591, 
 MF Dusk: qlineargradient(spread:pad, x1:1, y1:0, x2:0, y2:1, stop:0 rgba(51, 30, 84, 255), stop:0.466368 rgba(68, 47, 101, 255), stop:1 rgba(0, 0, 0, 255))
 
 MF Summer: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:1, stop:0 rgba(217, 88, 76, 255), stop:1 rgba(255, 103, 38, 255))
+MF Fluffy: qradialgradient(cx:1,cy:0,radius:1.2, fx:0.5, fy:0.5,stop:0.4 #FFEE62,stop:0.5 #73B4D5,stop:0.64 #73B4D5,stop:0.65#73B4D5,stop:1#FFEE62)
