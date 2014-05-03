@@ -1,0 +1,47 @@
+{
+    "announcements": [
+        {
+            "name": "normal",
+            "gradient": "qlineargradient(spread:pad, x1:0.941573, y1:0.046, x2:0, y2:1, stop:0.0376766 rgba(76, 171, 215, 255), stop:1 rgba(0, 0, 0, 255))",
+            "textcolor": "white",
+            "mottocolor": "red"
+        },
+        {
+            "name": "classic",
+            "gradient": "qradialgradient(spread:pad, cx:0.5, cy:0.5, radius:1.303, fx:0.591, fy:0.522727, stop:0 rgba(85, 255, 255, 255), stop:0.568182 rgba(0, 0, 0, 255), stop:0.840909 rgba(255, 0, 0, 255))",
+            "textcolor": "white",
+            "mottocolor": "red"
+        },
+        {
+            "name": "normal",
+            "gradient": "qlineargradient(spread:pad, x1:0.941573, y1:0.046, x2:0, y2:1, stop:0.0376766 rgba(76, 171, 215, 255), stop:1 rgba(0, 0, 0, 255))",
+            "textcolor": "white",
+            "mottocolor": "red"
+        },
+        {
+            "name": "dusk",
+            "gradient": "qlineargradient(spread:pad, x1:1, y1:0, x2:0, y2:1, stop:0 rgba(51, 30, 84, 255), stop:0.466368 rgba(68, 47, 101, 255), stop:1 rgba(0, 0, 0, 255))",
+            "textcolor": "white",
+            "mottocolor": "red"
+        },
+        {
+            "name": "fluffy",
+            "gradient": "qradialgradient(cx:1,cy:0,radius:1.2, fx:0.5, fy:0.5,stop:0.4 #FFEE62,stop:0.5 #73B4D5,stop:0.64 #73B4D5,stop:0.65#73B4D5,stop:1#FFEE62)",
+            "textcolor": "gray",
+            "mottocolor": "red"
+        },
+        {
+            "name": "grass",
+            "gradient": "qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:1, stop:0.278571 rgba(170, 170, 127, 255), stop:0.628571 rgba(0, 255, 129, 255))",
+            "textcolor": "white",
+            "mottocolor": "red"
+        },
+        {
+            "name": "summer",
+            "gradient": "qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:1, stop:0 rgba(217, 88, 76, 255), stop:1 rgba(255, 103, 38, 255))",
+            "textcolor": "white",
+            "mottocolor": "red"
+        }
+    ],
+    "default": "normal"
+}
