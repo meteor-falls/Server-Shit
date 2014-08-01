@@ -112,10 +112,10 @@ The Eureka Brain is a complete surprise. You will do Challenge Cup battles. Unli
 ☑ Self-KO Clause
 ☐ Inverted Battle
 
-[b]Tier[/b]: Magikarp Cup
+[b]Tier[/b]: Challenge Cup
 [b]Mode[/b]: Singles
 
-[b]Current Brain[/b]: ~Open~
+[b]Current Brain[/b]: TheUnknownOne (cares)
 [/spoiler]
 
 [b]Entropy[/b] (Any)
