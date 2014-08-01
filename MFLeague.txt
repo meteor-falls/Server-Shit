@@ -93,7 +93,7 @@ The Karp Brain masters the skills of the Magikarp Cup. In the Magikarp Cup tier,
 [b]Tier[/b]: Magikarp Cup
 [b]Mode[/b]: Singles
 
-[b]Current Brain[/b]: ~Open~
+[b]Current Brain[/b]: Kancer
 [/spoiler]
 
 [b]Eureka[/b] (Challenge Cup)
