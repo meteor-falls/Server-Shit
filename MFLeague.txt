@@ -16,7 +16,7 @@ The Hackapell Brain focuses on Hyper Offense (hakkaa päälle, or "cut them down
 ☑ Sleep Clause
 ☑ Freeze Clause
 ☐ Disallow Specs
-☑ Item Clause
+☐ Item Clause
 ☐ Challenge Cup
 ☐ No Timeout
 ☑ Species Clause
@@ -38,7 +38,7 @@ The Militia Brain focuses on Stall. Expect all kinds of annoying combinations: h
 ☑ Sleep Clause
 ☑ Freeze Clause
 ☐ Disallow Specs
-☑ Item Clause
+☐ Item Clause
 ☐ Challenge Cup
 ☐ No Timeout
 ☑ Species Clause
@@ -60,7 +60,7 @@ The Prism Brain does Inverted battles. There are no rules to their play style - 
 ☑ Sleep Clause
 ☑ Freeze Clause
 ☐ Disallow Specs
-☑ Item Clause
+☐ Item Clause
 ☐ Challenge Cup
 ☐ No Timeout
 ☑ Species Clause
@@ -104,7 +104,7 @@ The Eureka Brain is a complete surprise. You will do Challenge Cup battles. Unli
 ☑ Sleep Clause
 ☑ Freeze Clause
 ☐ Disallow Specs
-☑ Item Clause
+☐ Item Clause
 ☑ Challenge Cup
 ☐ No Timeout
 ☑ Species Clause
@@ -148,7 +148,7 @@ The Cloud 9 Brain is all about not about weather. Yeah, that's right. No weather
 ☑ Sleep Clause
 ☑ Freeze Clause
 ☐ Disallow Specs
-☑ Item Clause
+☐ Item Clause
 ☐ Challenge Cup
 ☐ No Timeout
 ☑ Species Clause
@@ -181,7 +181,7 @@ The Metronome Brain does all the Metronoming in the world. You will fight in the
 [b]Tier[/b]: Metronome
 [b]Mode[/b]: Singles
 
-[b]Current Brain[/b]: ~Open~
+[b]Current Brain[/b]: [VP]Max
 [/spoiler]
 
 Challengers should post in their challenged Frontier Brain's threads. Read the /leaguerules and their OP first. If you are looking to tryout, post below, and we will arrange something on the server with the tryout manager (currently [b]Comrade Mario[/b]).
